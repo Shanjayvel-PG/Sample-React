@@ -1,0 +1,9 @@
+{
+	"name": "sampleback_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "acvl-erode@allcanadavanlines.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
